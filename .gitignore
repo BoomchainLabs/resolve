@@ -13,4 +13,7 @@ yarn.lock
 # symlinked file used in tests
 test/resolver/symlinked/_/node_modules/package
 
+# test fixtures from list-exports
+test/list-exports/**/*
+
 .npmignore
